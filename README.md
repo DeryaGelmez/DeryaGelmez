@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Derya
 
-<!--
-**DeryaGelmez/DeryaGelmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student at Kocaeli University
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me:
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][Medium]
+&nbsp;&nbsp;
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
+
+<br />
+<br />
+
+---
+ 
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/derya-gelmez/
+[Medium]: https://medium.com/@deryagelmez
