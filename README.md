@@ -4,10 +4,9 @@
 
 
 ### Contact with me:
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][Medium]
+[<img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/medium-logo.png" alt="medium-logo"/>][Medium]
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
-[<img width="48" height="48" src="https://img.icons8.com/fluency-systems-filled/48/medium-logo.png" alt="medium-logo"/>][Medium]
 
 </svg>
 <br />
