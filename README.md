@@ -4,7 +4,7 @@
 
 
 ### Contact with me:
-[<img width="64" height="64" src="https://img.icons8.com/sf-black/64/000000/medium-logo.png"/>][Medium]
+[<img src="https://img.icons8.com/sf-black/64/000000/medium-logo.png"/>][Medium]
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
