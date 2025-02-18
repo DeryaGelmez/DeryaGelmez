@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Derya</h1>
-<h3 align="center">Information Systems Engineering</h3>
-
 - 📫 How to reach me **derya.glmz02@gmail.com**
 
 
