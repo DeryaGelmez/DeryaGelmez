@@ -1,1 +1,1 @@
-- 📫 How to reach me **derya.glmz02@gmail.com*
+- 📫 How to reach me **derya.glmz02@gmail.com**
